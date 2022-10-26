@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*Head*/
+
+.head{
+    width: 1530px;
+    min-height: 720px;
+    background: #F2F2F2;
+    background-size: cover;
+}
+
+.header{
+    width: 1280px;
+    min-height: 49px;
+    background: transparent;
+    float: left;
+    margin-left: 128px;
+    margin-top: 78px;
+}
+
+.logo{
+    width: 166px;
+    min-height: inherit;
+    float: left;
+}
+
+.menu{
+    width: 1114px;
+    min-height: inherit;
+    float: left;
+}
+
+.menu ul{
+    padding: 0;
+    margin: 0;
+    margin-left: 550px;
+}
+
+.menu ul li{
+    list-style-type: none;
+    padding: 15px 68px;
+    float: left;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+.hero{
+    width: 1280px;
+    height: 474px;
+    background: transparent;
+    float: left;
+    margin-left: 128px;
+    margin-top: 70px;
+}
+
+.lhero{
+    width: 640px;
+    min-height: inherit;
+    background: transparent;
+    float: left;
+}
+
+.text1{
+    width: 640px;
+    height: 207px;
+    background: transparent;
+    float: left;
+    margin-top: 77px;
+}
+
+.hero_h1{
+    min-height: 120px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.hero_p{
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+}
+
+.inbut{
+    width: 100%;
+    height: 45px;
+    background: transparent;
+    float: left;
+    margin-top: 25px;
+}
+
+.email{
+    width: 320px;
+    height: 45px;
+    padding-left: 21px;
+    box-sizing: border-box;
+    border: 0.5px solid #07043B;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border: 3.125px solid white;
+    border-radius: 3.125px;
+}
+
+.bt{
+    width: 200px;
+    height: 45px;
+    box-sizing: border-box;
+    margin-left: 16px;
+    background: rgba(47, 101, 248, 1);
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border: 3.125px solid rgba(47, 101, 248, 1);
+    border-radius: 3.125px;
+    color: white;
+}
+
+.rhero{
+    width: 640px;
+    height: 474px;
+    background: transparent;
+    float: left;
+    background-image: url(../img/illustration_1-01.png);
+}
